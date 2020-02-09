@@ -73,8 +73,6 @@ nav:
   - Baby RNN: examples/babi_rnn.md
   - Baby MemNN: examples/babi_memnn.md
   - CIFAR-10 CNN: examples/cifar10_cnn.md
-  - CIFAR-10 CNN-Capsule: examples/cifar10_cnn_capsule.md
-  - CIFAR-10 CNN with augmentation (TF): examples/cifar10_cnn_tfaugment2d.md
   - CIFAR-10 ResNet: examples/cifar10_resnet.md
   - Convolution filter visualization: examples/conv_filter_visualization.md
   - Convolutional LSTM: examples/conv_lstm.md
@@ -88,3 +86,5 @@ nav:
   - Sequence to sequence - training: examples/lstm_seq2seq.md
   - Sequence to sequence - prediction: examples/lstm_seq2seq_restore.md
   - Stateful LSTM: examples/lstm_stateful.md
+  - LSTM for text generation: examples/lstm_text_generation.md
+  - Auxiliary Classifier GAN: examples/mnist_acgan.md
